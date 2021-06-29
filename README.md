@@ -1,2 +1,8 @@
 # Comunicao_Arduino/Python
-## Neste repositório foi feita uma programação que estabelece uma comunicação serial entre arduino e python para leitura de dados em tempo real
+
+### Neste repositório foi realizada uma comunicação entre dois arduinos (arduino_emissor e arduino_receptor) via WiFi para transmissão de dados de tensão elétrica através de uma das I/O analógicas do microcontrolador. Neste caso o operador de um determinado equipamento pode realizar as aferições de tensão a longas distâncias.
+### Equipamentos utilizados:
+* **2 arduinos nano ou uno;**
+* **2 módulos RF24l01;**
+
+### Posteriormente, foi feita uma comunicação entre o arduino_receptor e o python (spyder IDE) para fazer a leitura das informações recebidas de forma dinâmica e futuramente, salvar as infromações em uma planilha de excel.
