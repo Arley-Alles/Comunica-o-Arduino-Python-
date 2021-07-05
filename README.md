@@ -15,4 +15,4 @@
 ### Posteriormente, foi feita uma comunicação entre o arduino_receptor e o python (spyder IDE) para fazer a leitura das informações recebidas de forma dinâmica e futuramente, salvar as infromações em uma planilha de excel.
 
 ### Código:
-* ** Leitura arduino_receptor/python:** https://github.com/Arley-Alles/Comunica-o-Arduino-Python-/blob/main/Leitura_dinamica.py;
+* **Leitura arduino_receptor/python:** https://github.com/Arley-Alles/Comunica-o-Arduino-Python-/blob/main/Leitura_dinamica.py;
