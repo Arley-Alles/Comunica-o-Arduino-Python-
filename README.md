@@ -12,7 +12,7 @@
 * **Arduino_emissor:** https://github.com/Arley-Alles/Comunica-o-Arduino-Python-/blob/main/Emissor%20RF24.ino;
 * **Arduino_receptor:** https://github.com/Arley-Alles/Comunica-o-Arduino-Python-/blob/main/Receptor%20RF24.ino;
 
-### Posteriormente, foi feita uma comunicação entre o arduino_receptor e o python (spyder IDE) para fazer a leitura das informações recebidas de forma dinâmica e futuramente, salvar as infromações em uma planilha de excel.
+### Posteriormente, foi feita uma comunicação entre o arduino_receptor e o python para fazer a leitura das informações recebidas de forma dinâmica e futuramente, salvar as infromações em uma planilha de excel.
 
 ### Código:
 * **Leitura arduino_receptor/python:** https://github.com/Arley-Alles/Comunica-o-Arduino-Python-/blob/main/Leitura_dinamica.py;
